@@ -48,7 +48,7 @@ input[type=checkbox] { position: relative; z-index: 20; }
 #singlesafety { text-align: left; padding: 5px; border-top: 2px solid #076AE0; top: -25px; position: relative; }
 
 #main { position: relative; text-align: center; margin: 0px auto; width: 808px; }
-#logo { width: 578px; height: 100px; }
+#logo { width: 667px; height: 99px; }
 		
 #paperarea { min-height: 120px; display: none; }
 #paperarea .keyarea { border: 2px solid #076AE0; border-top: 0; }
